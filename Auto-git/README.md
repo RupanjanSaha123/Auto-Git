@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Rupanjan Saha and Subarno Chakraborty
 
 ---
 
