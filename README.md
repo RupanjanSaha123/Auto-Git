@@ -1,4 +1,5 @@
-Auto-Git(GitScheduler) 🕒
+# Auto-Git(GitScheduler) 🕒
+
 Schedule your git commits and pushes - Never miss a deadline again!
 
 A simple, user-friendly CLI tool that allows developers to schedule git commits and pushes for later execution. Perfect for when you need to step away but want your code pushed at a specific time.
