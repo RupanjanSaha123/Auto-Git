@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Created with ❤️ by Rupanjan Saha and Subarno Chakraborty
+Created with ❤️ by Rupanjan Saha
 
 ---
 
@@ -329,7 +329,7 @@ Created with ❤️ by Rupanjan Saha and Subarno Chakraborty
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: rupanjan1203@gmail.com
 
 ---
 
